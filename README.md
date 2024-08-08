@@ -1,5 +1,4 @@
-
-![logo](https://github.com/Syed-Abdul-Rehman2003/Syed-Abdul-Rehman2003/blob/main/README.md)
+![logo](https://github.com/Syed-Abdul-Rehman2003/Syed-Abdul-Rehman2003/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Syed Abdul Rehman</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
